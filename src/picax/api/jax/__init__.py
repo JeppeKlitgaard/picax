@@ -1,3 +1,6 @@
+# MS-SSIM
+from picax._jax.ms_ssim import ms_ssim as ms_ssim
+
 # PSNR
 from picax._jax.psnr import psnr as psnr
 
